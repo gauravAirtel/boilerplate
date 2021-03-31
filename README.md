@@ -23,7 +23,7 @@ SOCKET.IO : https://www.npmjs.com/package/socket.io
 ### Known Issue
 Nothing at the moment :)
 
-##Key points
+### Key points
 * Use Proper indentation. 4 spaces should be there.
 * All variables and files should be camelcased. Dont use '_' in any variable and filname.
 * No callbacks, use only promises
